@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.iamjdc72.r22plog",
+    "sha256_cert_fingerprints": ["4E:FA:ED:0F:98:51:B4:6F:7E:57:37:A2:7A:32:BC:D3:B5:70:55:64:31:C6:09:2D:07:B8:B1:27:E3:9E:40:9C"]
+  }
+}]
